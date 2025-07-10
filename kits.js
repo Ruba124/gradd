@@ -36,6 +36,25 @@ case "home":
     a1.textContent=randomMessage;
 
     }break;
+    case "away":
+    {
+    let a1= document.getElementById("hi2");
+    a1.textContent=randomMessage1;
+
+    }break;
+    case "third":
+    {
+    let a1= document.getElementById("hi3");
+    a1.textContent=randomMessage2;
+
+    }break;
+
+
+
+
+
+
+
 
 
 }
