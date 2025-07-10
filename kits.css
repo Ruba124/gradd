@@ -1,0 +1,68 @@
+img{
+    width: 200px;
+    hight: 200px;
+  
+
+}
+body, html {
+  height: 100%;
+  margin: 0;
+ 
+  background-image: url('wall.png');
+  background-size: cover;
+  background-position: center;
+
+
+
+  
+}
+.home{
+display: flex;
+justify-content: space-around;
+
+
+
+
+
+}
+.home1{
+display: flex;
+flex-direction:column ;
+
+
+}
+
+p2{
+
+color: rgb(232, 76, 76);
+font-size: 30px;
+
+
+
+}
+.home4 {
+  background-color: white;
+  border: 2px solid rgb(232, 76, 76); /* لون الإطار */
+  border-radius: 12px;
+  padding: 20px;
+  width: fit-content;
+  margin: 30px auto; /* توسيط أفقي */
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* ظل */
+}
+
+.home3 {
+  color: rgb(232, 76, 76);
+  font-size: 24px;
+  text-align: center;
+  margin: 0;
+  font-weight: bold;
+}
+p1{
+
+color: rgb(232, 57, 57);
+font-size: 20px;
+margin-left: 30px;
+font-weight: bold;
+
+
+}
