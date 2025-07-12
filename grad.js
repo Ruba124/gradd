@@ -12,3 +12,10 @@ window.location.href = "play.html";
 
 
 }
+function goal()
+{
+window.location.href = "goal.html";
+
+
+
+}

@@ -2,7 +2,7 @@ function delayPrint(message, time) {
   return new Promise(function(resolve) {
     setTimeout(function() {
       const outputDiv = document.getElementById("output");
-      outputDiv.innerHTML = message;  // 👈 Display message on screen
+      outputDiv.innerHTML = message;  
       resolve();
     }, time);
   });
