@@ -19,3 +19,10 @@ window.location.href = "goal.html";
 
 
 }
+function match()
+{
+window.location.href = "match.html";
+
+
+
+}
